@@ -1,5 +1,5 @@
 
-# Next.js + Shopify + Builder.io starter kit
+# Next.js + Shopify 
 
 The ultimate starter for headless Shopify stores. 
 
@@ -12,11 +12,6 @@ The ultimate starter for headless Shopify stores.
 - Themable
 - Personalizable (internationalization, a/b testing, etc)
 - Builder.io Visual CMS integrated
-
-## Video walkthrough
-
-Learn how to get started with this Builder + Next.js + Shopify starter with this step by step video guide here:
-
 
 
 ## Getting Started
